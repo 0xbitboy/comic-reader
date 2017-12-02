@@ -17,9 +17,11 @@
 <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew1.png?raw=true" width = "250" align="left" >
 <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew2.png?raw=true" width = "250" align="left">
 <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew3.png?raw=true" width = "250" align="left">
-</figure>
-<div style="clear:both;">
+<div style="float:none;clear:both;">
+
 </div>
+</figure>
+
 
 ## Build Setup
 
@@ -45,5 +47,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-
