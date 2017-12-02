@@ -1,6 +1,24 @@
 # comic-reader
 
-> A comic-reader website
+> 一个简单漫画阅读器的demo，需要配合爬虫项目[pufei-cartoon](https://github.com/liaojiacan/py-spider)一起使用
+
+## power by
+- vue
+- vux
+
+
+## Demo site
+ 
+ [dm.liaojiacan.me](http://dm.liaojiacan.me)
+
+## Preview
+
+<figure class="third">
+    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew1.png?raw=true">
+    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew2.png?raw=true">
+    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew3.png?raw=true">
+
+</figure>
 
 ## Build Setup
 
@@ -27,4 +45,4 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
