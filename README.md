@@ -14,9 +14,9 @@
 ## Preview
 
 <figure class="third">
-    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew1.png?raw=true">
-    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew2.png?raw=true">
-    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew3.png?raw=true">
+    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew1.png?raw=true" width = "250">
+    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew2.png?raw=true" width = "250">
+    <img src="https://github.com/liaojiacan/comic-reader/blob/master/preview/reader-prew3.png?raw=true" width = "250">
 
 </figure>
 
